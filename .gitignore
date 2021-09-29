@@ -1,3 +1,4 @@
 web.log
 access.log
 log
+*.orig
