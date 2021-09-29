@@ -3,11 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    <name> -- <role> -- <twitter> adarsh trainee VRIZE
 
 # TECHNOLOGY COLOPHON
 
